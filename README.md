@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**jazmin-tapia/jazmin-tapia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# name 
+I'm Jazmin Tapia, and I am taking C++ at FTCC. I'm a political science major transferring to UNC.
+## About Me:
+When I'm not studying, I am:
+- reading 
+- baking 
+- painting
+### Classes I'm taking:
+- critical thinking 
+- ancient history 
+- sociology
+- C++
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
