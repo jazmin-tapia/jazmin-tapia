@@ -1,5 +1,5 @@
 
-# Name:
+# Hi!!
 I'm Jazmin Tapia, and I am taking C++ at FTCC. I'm a political science major transferring to UNC.
 ## About Me:
 When I'm not studying, I am:
